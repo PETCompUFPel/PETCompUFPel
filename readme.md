@@ -6,8 +6,8 @@
 - 📫 Contate-nos em: pet@inf.ufpel.edu.br
 #
 #
-![PETCompUFPel's GitHub stats](https://github-README-stats.vercel.app/api?username=PETCompUFPel&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-README-stats.vercel.app/api/top-langs/?username=PETCompUFPel&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![PETCompUFPel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PETCompUFPel&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PETCompUFPel&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="PET-C" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
