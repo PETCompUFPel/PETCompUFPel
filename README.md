@@ -1,4 +1,4 @@
-## Olá, nós somos o PETCOMP! 👨‍💻 👩🏽‍💻<img align="right" alt="Kathe-pic" height="95" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/ab/ce/e4abcef1d3f9f39dfbaad1838e0f3f07.gif">
+## Olá, nós somos o PETCOMP! 👨‍💻 👩🏽‍💻
 
 - 🚻  Nós somos o PET da Eng. De Computação na UFPel. E Fazemos projetos de 📣 **Extensão** e 📚 **Ensino** dentro e fora da comunidade acadêmica da UFPEL.
 - 🎯  Nosso objetivo é fortificar a comunidade de Pelotas e da acadêmica da UFPEL por meio de projetos e ações que possam fortificar alunx e não alunx.
@@ -6,8 +6,8 @@
 - 📫 Contate-nos em: pet@inf.ufpel.edu.br
 #
 #
-![PETCompUFPel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PETCompUFPel&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PETCompUFPel&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![PETCompUFPel's GitHub stats](https://github-README-stats.vercel.app/api?username=PETCompUFPel&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-README-stats.vercel.app/api/top-langs/?username=PETCompUFPel&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="PET-C" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
