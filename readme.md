@@ -1,6 +1,6 @@
 ## Olá, nós somos o PETCOMP! 👨‍💻 👩🏽‍💻
 
-- 🚻  Nós somos o PET da Eng. De Computação na UFPel. E Fazemos projetos de 📣 **Extensão** e 📚 **Ensino** dentro e fora da comunidade acadêmica da UFPEL.
+- 🚻  Nós somos o PET da Ciência e Engenharia De Computação na UFPel. E Fazemos projetos de 📣 **Extensão** e 📚 **Ensino** dentro e fora da comunidade acadêmica da UFPEL.
 - 🎯  Nosso objetivo é fortificar a comunidade de Pelotas e da acadêmica da UFPEL por meio de projetos e ações que possam fortificar alunx e não alunx.
 - 🗂️ Esse repositório terá conteúdos dos cursos e projetos ministrados pelo grupo PET e também terá conteúdos dos alunx destes projetos/cursos.
 - 📫 Contate-nos em: pet@inf.ufpel.edu.br
